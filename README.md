@@ -6,11 +6,9 @@
 <li>Languages : Python/HTML/CSS/Java Script/SQL</li>
 <li>Tools : Django/React/Colab Pro/AWS EC2/Raspberry Pi/Maria DB/PyCharm/VSCode/Jupyter Notebook/Docker/MQTT/Web Socket</li>
 <li>Team Collaboration Tools : Slack/Notion/Mural/Oven/Zoom/GoogleDrive</li>
-
-![image-20210710194040366](C:\Users\dmsru\AppData\Roaming\Typora\typora-user-images\image-20210710194040366.png)
+<p align="center"><img width="1000" height="400" src="https://user-images.githubusercontent.com/67992684/125160474-fb851600-e1b7-11eb-8223-bdb8c949d081.png"></p>
 
 <li>Version
-
 <p>OS - Raspbian GNU/Linux 10, Windows 10
 <p>DB – MariaDB 
 <p>Web Framework – Django rest framework 
