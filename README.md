@@ -8,24 +8,14 @@
 <li>Team Collaboration Tools : Slack/Notion/Mural/Oven/Zoom/GoogleDrive</li>
 <p></p>
 <p align="center"><img width="1000" height="400" src="https://user-images.githubusercontent.com/46801877/120745244-b5dd8980-c537-11eb-93e9-93d5056541e3.png"></p>
-<p> 🤞 Version
+<li>Version
 <p>OS - Raspbian GNU/Linux 10, Windows 10
-<p>DB – MariaDB v15.1
-<p>Web Framework – Django rest framework v3.12.2
-<p>Language - Python v3.9.1
-<p>Cloud - AWS EC2 t2.micro
+<p>DB – MariaDB 
+<p>Web Framework – Django rest framework 
+<p>Language - Python 
+<p>Cloud - AWS EC2 
 <p>MQTT broker - mosquitto 1.6.10
-<p>개발 Tool – Visual Studio Code v1.56.2, pycharm
 
----
-|**Roles**|담당자|작업내용|
-|:---:|:---:|---|
-|Cloud|김창준|웹 프론트/백엔드 설계 및 제작, 전반적인 통신 최적화 작업|
-|AI|심영석,정은경|이미지 데이터 수집, 인공지능 모델 학습 및 최적 모델 생성(Yolov5)|
-|Big-Data|박나영|데이터 센터의 데이터를 활용한 디바이스 최적 입지 선정| 
-|IoT|한상범|디바이스 제작, 이기종간 통신망 구축 및 최적화, 시연 동영상 기획 및 제작| 
-
----
   <details><summary>Need More Details🤭<strong>click on me!</strong></summary><div markdown="1">
   <p></p>
   <li> 프로젝트 배경 : 코로나 시대로 인한 플라스틱 제품 사용 ⬆️, 하지만 재활용률은 ⬇️ 따라서, 플라스틱의 종류별 분리수거의 필요성 </li>
@@ -38,7 +28,6 @@
 ---
 >[AIRSM](https://www.youtube.com/watch?v=lVkdkw2LoEE) 시연영상
 
-  >![iOS 이미지](https://user-images.githubusercontent.com/46801877/120769611-44fa9980-c558-11eb-8fe5-2a5d2160c519.gif)
 
 
 
